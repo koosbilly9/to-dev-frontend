@@ -1,9 +1,15 @@
 {
   "folders": [
     {
+      "name": "to-dev-frontend",
+      "path": "."
+    },
+    {
+      "name": "to-invest-dummies",
       "path": "../to-invest-dummies"
     },
     {
+      "name": "to-crypto-buy-sell-signals",
       "path": "../to-crypto-buy-sell-signals"
     }
   ]
