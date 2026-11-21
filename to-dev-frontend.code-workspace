@@ -12,5 +12,8 @@
       "name": "to-crypto-buy-sell-signals",
       "path": "../to-crypto-buy-sell-signals"
     }
-  ]
+  ],
+  "settings": {
+    "git.ignoreLimitWarning": true
+  }
 }
